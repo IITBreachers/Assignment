@@ -1,6 +1,6 @@
 # Convener's/Volunteer's Assignment
 This is an assignment for the application of convener or a volunteer in [Cybersecurity Club IITB](https://www.facebook.com/groups/csec.iitb).  
-There are 5 tasks, try to complete the tasks. You dont need to complete all the tasks, just do as much as you can (even writeups of tasks which have not been solved but show your directionality of thinking are appreciated). But remember, you need to make a detailed writeup on the tasks even if you were not able to complete the task. We dont seek answers, we seek methods full of creativity and a fearless desire to learn more.
+There are 4 tasks, try to complete the tasks. You dont need to complete all the tasks, just do as much as you can (even writeups of tasks which have not been solved but show your directionality of thinking are appreciated). But remember, you need to make a detailed writeup on the tasks even if you were not able to complete the task. We dont seek answers, we seek methods full of creativity and a fearless desire to learn more.
 
 ## How to submit?
 Just make a **private** github repository for the writeups and code for solutions and add @zehrileLaunde as a contributor (zehrileLaunde@protonmail.com)
