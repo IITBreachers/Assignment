@@ -16,7 +16,7 @@ The deadline for the assignment is 6th July 2020 23:59 IST
 Selected candidates would be contacted by us on the provided email ids and would be interviewed on 7th July onwards
 
 ## Task 1
-You are provided with the file [task1/output.txt](task1/output.txt). The file contains all possible combination of 3 bytes except some few. All you need to find out is which combinations are not present.
+You are provided with the file output.txt which has been split into 4 parts [part1](task1/part1), [part2](task1/part2), [part3](task1/part3) and [part4](task1/part4) . The file contains all possible combination of 3 bytes except some few. All you need to find out is which combinations are not present.
 
 All the 3-byte combinations are spearated by a newline ('\n').  
 > It would be fun if you can form an english sentence out of them  
